@@ -1,9 +1,9 @@
 <!--![placeholder](https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif)-->
-<img width = 996 height=560 alt="streak stats" src="https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif"/>
+<!--<img width = 996 height=560 alt="streak stats" src="https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif"/>
 <h1 align=center>.  ⊹ ݁₊. ˖ . Hey there! . ݁₊ ⊹ . ݁˖ . ݁</h1>
-
-<div align=center><!--I'm Artur, a full-time Computer Science student and <br>also a big fan of technology-related things <br><br> alternativa pro texto de cima:--> Welcome to my GitHub page! :p </div>
 996 560
+<div align=center><!--I'm Artur, a full-time Computer Science student and <br>also a big fan of technology-related things <br><br> alternativa pro texto de cima:--> Welcome to my GitHub page! :p </div>
+
 <!-- . ˖ ݁. ⊹ ₊  ݁.    / / / / / \     . ݁₊ ⊹ . ݁˖ . ݁ -->
 <br>
 <br>
@@ -15,10 +15,32 @@
 
 <!--*I've had previous experience as a sophomore in other university-->
 # Technical Skills 👨🏼‍💻
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+<img src="https://tenor.com/view/aot-armin-aot-junior-high-attack-on-titan-junior-high-aot-junior-high-armin-armin-bigbee-gif-9166442312696069385.gif" width=268 height=288 align=right> 
+
+<br>
+
 ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
+<br>
+
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+<br>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+<br>
+
+### Learning
+![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/html-F54927?style=for-the-badge&logo=html5&logoColor=701705)
+![git](https://img.shields.io/badge/git-f7df1e?style=for-the-badge&logo=git&logoColor=red)
 <br>
 
 ## Gaming Development
