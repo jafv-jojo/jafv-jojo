@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![teste](https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif)
 <!--
 **jafv-jojo/jafv-jojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
