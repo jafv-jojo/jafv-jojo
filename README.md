@@ -51,4 +51,9 @@
 ![trad draw](https://img.shields.io/badge/-traditional%20drawing-DAA520?logo=livejournal&logoColor=white&style=for-the-badge) <!--linkar com sessao de curiosidades do portfolio-->
 ![krita](https://img.shields.io/badge/-krita-f71eff?logo=krita&logoColor=navy&style=for-the-badge)
 
+# Contact Info ☎️
+If you want to talk to me for some reason, feel free to talk via these links! :)
+
+<a href = "mailto:josearturf68@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jarturviana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:262c36,100:262c36&section=footer&height=200)
