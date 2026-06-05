@@ -50,3 +50,5 @@
 ## Designs
 ![trad draw](https://img.shields.io/badge/-traditional%20drawing-DAA520?logo=livejournal&logoColor=white&style=for-the-badge) <!--linkar com sessao de curiosidades do portfolio-->
 ![krita](https://img.shields.io/badge/-krita-f71eff?logo=krita&logoColor=navy&style=for-the-badge)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:262c36,100:262c36&section=footer&height=200)
