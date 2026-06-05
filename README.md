@@ -1,7 +1,7 @@
 <!--![placeholder](https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif)-->
-<!--<img width = 996 height=560 alt="streak stats" src="https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif"/>
+<!--<img width = 996 height=560 alt="streak stats" src="https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif"/> 996x560-->
 <h1 align=center>.  ⊹ ݁₊. ˖ . Hey there! . ݁₊ ⊹ . ݁˖ . ݁</h1>
-996 560
+
 <div align=center><!--I'm Artur, a full-time Computer Science student and <br>also a big fan of technology-related things <br><br> alternativa pro texto de cima:--> Welcome to my GitHub page! :p </div>
 
 <!-- . ˖ ݁. ⊹ ₊  ݁.    / / / / / \     . ݁₊ ⊹ . ݁˖ . ݁ -->
