@@ -1,5 +1,8 @@
 <!--![placeholder](https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif)-->
 <!--<img width = 996 height=560 alt="streak stats" src="https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif"/> 996x560-->
+
+![header](https://gifdb.com/images/thumbnail/anime-aki-close-up-chainsaw-man-smoking-cb1anoc16pgkomp2.gif)
+
 <h1 align=center>.  ⊹ ݁₊. ˖ . Hey there! . ݁₊ ⊹ . ݁˖ . ݁</h1>
 
 <div align=center><!--I'm Artur, a full-time Computer Science student and <br>also a big fan of technology-related things <br><br> alternativa pro texto de cima:--> Welcome to my GitHub page! :p </div>
