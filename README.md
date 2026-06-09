@@ -12,11 +12,11 @@
 <br>
 
 # Who am I?   
- My name is Artur, full-time Computer Science student and currently a freshman<!--*-->. I'm also a big fan of technology and science-related things!
-
-<br>
+ My name is Artur, I am a full-time Computer Science student and currently in freshman year<!--*-->. I'm also a technology, music and science-related-things enthusiast! 
 
 <!--*I've had previous experience as a sophomore in other university-->
+<br>
+
 # Technical Skills 👨🏼‍💻
 
 
