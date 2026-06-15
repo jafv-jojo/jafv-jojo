@@ -9,13 +9,12 @@
 
 <!-- . ˖ ݁. ⊹ ₊  ݁.    / / / / / \     . ݁₊ ⊹ . ݁˖ . ݁ -->
 <br>
-<br>
 
 # Who am I?   
  My name is Artur, I am a full-time Computer Science student and currently in freshman year<!--*-->. I'm also a technology, music and science-related-things enthusiast! 
 
 <!--*I've had previous experience as a sophomore in other university-->
-<br>
+
 
 # Technical Skills 👨🏼‍💻
 
@@ -40,13 +39,17 @@
 
 <br>
 
-### Learning
+
+### Learning...
+<p align="right">↑ Armin = GOAT <3</p>
+ 
 ![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/html-F54927?style=for-the-badge&logo=html5&logoColor=701705)
-![git](https://img.shields.io/badge/git-f7df1e?style=for-the-badge&logo=git&logoColor=red)
+![git](https://img.shields.io/badge/git-f7df1e?style=for-the-badge&logo=git&logoColor=red) 
+
 <br>
 
-## Gaming Development
+## Gaming Development Skills
 ![Bitsy](https://img.shields.io/badge/Bitsy-6565b7?style=for-the-badge&logo=bitsy&logoColor=white) <br> [check out my game! (˶ᵔ ᵕ ᵔ˶)](https://vanitatomni.itch.io/sw-st)
 
 
