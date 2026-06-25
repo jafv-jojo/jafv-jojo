@@ -11,7 +11,7 @@
 <br>
 
 # Who am I?   
- My name is Artur, I am a full-time Computer Science student and currently in freshman year<!--*-->. I'm also a technology, music and science-related-things enthusiast! 
+ My name is Artur, I am a full-time Computer Science student and currently in freshman year<!--*-->. I'm also a technology, music and science-related-things enthusiast! [for more info, check out my portfolio ദ്ദി( • ᴗ - ) ](https://jafv-jojo.github.io/portfolio/)
 
 <!--*I've had previous experience as a sophomore in other university-->
 
@@ -50,7 +50,7 @@
 <br>
 
 ## Gaming Development Skills
-![Bitsy](https://img.shields.io/badge/Bitsy-6565b7?style=for-the-badge&logo=bitsy&logoColor=white) <br> [check out my game! (˶ᵔ ᵕ ᵔ˶)](https://vanitatomni.itch.io/sw-st)
+![Bitsy](https://img.shields.io/badge/Bitsy-6565b7?style=for-the-badge&logo=bitsy&logoColor=white) <br> [link of my game! (˶ᵔ ᵕ ᵔ˶)](https://vanitatomni.itch.io/sw-st)
 
 
 ## Designs
