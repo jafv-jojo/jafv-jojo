@@ -1,4 +1,4 @@
-<!--![placeholder](https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif)-->
+ <!--![placeholder](https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif)-->
 <!--<img width = 996 height=560 alt="streak stats" src="https://media1.tenor.com/m/g9mJ0_n3JTQAAAAd/armin-smile.gif"/> 996x560-->
 
 ![header](https://i.pinimg.com/1200x/15/01/a2/1501a21f373ff308e7954f374c8fa598.jpg)
