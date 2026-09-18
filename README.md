@@ -35,17 +35,26 @@
 
 <br>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <br>
 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p align="right">↑ Armin = GOAT </p>
+
+
+![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=F7DF1E)
+
+<br>
+
+![html](https://img.shields.io/badge/html-F54927?style=for-the-badge&logo=html5&logoColor=701705)
+
 
 ### Learning...
-<p align="right">↑ Armin = GOAT <3</p>
- 
-![css](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css&logoColor=F7DF1E)
-![html](https://img.shields.io/badge/html-F54927?style=for-the-badge&logo=html5&logoColor=701705)
+
 ![git](https://img.shields.io/badge/git-f7df1e?style=for-the-badge&logo=git&logoColor=red) 
+![django](https://img.shields.io/badge/django-FF4500?style=for-the-badge&logo=django&logoColor=701705)
+![c_sharp](https://img.shields.io/badge/csharp-00599C?style=for-the-badge&logo=sharp&logoColor=lightblue)
 
 <br>
 
@@ -53,9 +62,10 @@
 ![Bitsy](https://img.shields.io/badge/Bitsy-6565b7?style=for-the-badge&logo=bitsy&logoColor=white) <br> [link of my game! (˶ᵔ ᵕ ᵔ˶)](https://vanitatomni.itch.io/sw-st)
 
 
-## Designs
+## Designs/Visual
 ![trad draw](https://img.shields.io/badge/-traditional%20drawing-DAA520?logo=livejournal&logoColor=white&style=for-the-badge) <!--linkar com sessao de curiosidades do portfolio-->
-![krita](https://img.shields.io/badge/-krita-f71eff?logo=krita&logoColor=navy&style=for-the-badge)
+![krita](https://img.shields.io/badge/-krita-f71eff?logo=krita&logoColor=navy&style=for-the-badge) 
+![photoshop](https://img.shields.io/badge/photoshop-00599C?style=for-the-badge&logo=photopea&logoColor=white)
 
 # Contact Info ☎️
 If you want to talk to me for some reason, feel free to talk via these links! :)
